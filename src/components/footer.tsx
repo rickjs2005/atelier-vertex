@@ -13,7 +13,7 @@ export default function Footer() {
           <div>
             <p className="eyebrow mb-5 !text-brass-soft">Estúdio</p>
             <p className="text-sm font-light leading-relaxed text-ice/60">
-              Av. Europa 812, Jardim Europa
+              Jardim Europa (endereço ilustrativo)
               <br />
               São Paulo — SP
               <br />
